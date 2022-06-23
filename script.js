@@ -4,7 +4,7 @@ const number2 = parseFloat(prompt("Enter second number: "));
 
 var result;
 
-switch(operator):
+switch(operator){
        case '+':
             result = number1 + number2;
             break;
@@ -20,4 +20,5 @@ switch(operator):
          case '%':
               result = number1 % number2;
               break;
+}
 alert("Your answer is :"+ " " + result);
